@@ -43,11 +43,19 @@ Below is a screenshot of our spending ranges per student summary with the clean 
 
 ### School Size Summary
 
-4) The average reading and math scores and % passing was 
+4) The average reading and math scores and % passing by school size was uneffected by the changes to the nineth grade student data for Thomas High School.
 
 Below is a screenshot of our original school size summary:
 ![Screen Shot 2021-11-09 at 7 05 53 AM](https://user-images.githubusercontent.com/91925639/140921469-8029687c-0bc3-4516-9978-362b0e3d7bf8.png)
 
 Below is a screenshot of our school size summary with the clean student data:
+![Screen Shot 2021-11-09 at 7 10 43 AM](https://user-images.githubusercontent.com/91925639/140922001-4d20a853-60f0-4104-a331-a06491b41a10.png)
+
+### School Type Summary:
+
+5) The average reading and math scores and % passing by school type was uneffected by the changes to the nineth grade student data for Thomas High School.
+
+Below is a screenshot of our original school type summary:
 
 
+Below is a screenshot of our school type summary with the clean student data:
