@@ -21,5 +21,4 @@ Below is a screenshot of our district summary with the clean student data:
 2) 
 
 Below is a screenshot of our original school summary:
-![Screen Shot 2021-11-08 at 9 14 37 PM](https://user-images.githubusercontent.com/91925639/140849398-06c39fdc-0f68-43d2-bf4e-cd9d69164bd6.png)
-
+![Screen Shot 2021-11-08 at 9 21 22 PM](https://user-images.githubusercontent.com/91925639/140850014-6f9c1050-4375-469e-bb8e-b5f8af82b214.png)
