@@ -45,6 +45,9 @@ Below is a screenshot of our spending ranges per student summary with the clean 
 
 4) The average reading and math scores and % passing was 
 
+Below is a screenshot of our original school size summary:
+![Screen Shot 2021-11-09 at 7 05 53 AM](https://user-images.githubusercontent.com/91925639/140921469-8029687c-0bc3-4516-9978-362b0e3d7bf8.png)
 
+Below is a screenshot of our school size summary with the clean student data:
 
 
