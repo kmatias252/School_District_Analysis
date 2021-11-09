@@ -18,7 +18,20 @@ Below is a screenshot of our district summary with the clean student data:
 
 ### School Summary
 
-2) 
+2) Similarly to the district summary, the school summary overall had minimal differences in output. All metrics remained the same for all school except Thomas High School. The follow are a list of metrics and the changes for Thomas High School between the original school summary and the school summary with the clean student data. 
+    * Average Math Score - Thomas High School decreased by 0.06 from the orignal school summary.
+    * Average Reading Score - Thomas High School decreased by 0.05 from the orignal school summary.
+    * % Passing Math - Thomas High School decreased by 0.08% from the orignal school summary.
+    * % Passing Reading - Thomas High School by 0.29% from the orignal school summary.
+    * % Overall Passing - Thomas High School by 0.32% from the orignal school summary.    
 
 Below is a screenshot of our original school summary:
 ![Screen Shot 2021-11-08 at 9 21 22 PM](https://user-images.githubusercontent.com/91925639/140850014-6f9c1050-4375-469e-bb8e-b5f8af82b214.png)
+
+Below is a screenshot of our school summary with the clean student data:
+![Screen Shot 2021-11-08 at 9 22 50 PM](https://user-images.githubusercontent.com/91925639/140850171-b0a0c1d5-724c-42a6-88cd-dd612cbd372a.png)
+
+### Spending Ranges (Per Student) Summary
+3) The spending ranges per student was uneffected by the changes to the nineth grade student data for Thomas High School. 
+
+
