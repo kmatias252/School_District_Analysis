@@ -33,7 +33,7 @@ Below is a screenshot of our school summary with the clean student data:
 
 ### Spending Ranges (Per Student) Summary
 
-3) The spending ranges per student were uneffected by the changes to the nineth grade student data for Thomas High School. 
+3) The average reading scores, math scores and % passing by spending ranges per student were uneffected by the changes to the nineth grade student data for Thomas High School. Overall, students that had the lowest spending range (<$584) had higher scores and an overall higher % passing rate of 90%.
 
 Below is a screenshot of our original spending ranges per student summary:
 <img width="608" alt="Screen Shot 2021-11-08 at 10 46 33 PM" src="https://user-images.githubusercontent.com/91925639/140858433-42da5567-f05a-41a3-81d1-6b922472fe0c.png">
@@ -43,7 +43,7 @@ Below is a screenshot of our spending ranges per student summary with the clean 
 
 ### School Size Summary
 
-4) The average reading and math scores and % passing by school size was uneffected by the changes to the nineth grade student data for Thomas High School.
+4) The average reading scores, math scores and % passing by school size was uneffected by the changes to the nineth grade student data for Thomas High School. Generally, the small and medium schools had higher scores than large schools. Medium schools had the overall highest passing rate of 91% passing.
 
 Below is a screenshot of our original school size summary:
 ![Screen Shot 2021-11-09 at 7 05 53 AM](https://user-images.githubusercontent.com/91925639/140921469-8029687c-0bc3-4516-9978-362b0e3d7bf8.png)
@@ -53,9 +53,12 @@ Below is a screenshot of our school size summary with the clean student data:
 
 ### School Type Summary:
 
-5) The average reading and math scores and % passing by school type was uneffected by the changes to the nineth grade student data for Thomas High School.
+5) The average reading scores, math scores and % passing by school type was uneffected by the changes to the nineth grade student data for Thomas High School. Charter schools had overall higher scores than district schools and had a overall % passing of 90% vs district schools of 54%.
 
 Below is a screenshot of our original school type summary:
 ![Screen Shot 2021-11-09 at 7 17 11 AM](https://user-images.githubusercontent.com/91925639/140922921-16e1255e-39e8-4138-a1ed-ca79394fe7d8.png)
 
 Below is a screenshot of our school type summary with the clean student data:
+![Screen Shot 2021-11-09 at 7 19 16 AM](https://user-images.githubusercontent.com/91925639/140923101-4074bf41-e3eb-4300-ac3e-6dd5c1c7f817.png)
+
+## Summary:
