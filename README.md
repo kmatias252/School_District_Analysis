@@ -22,8 +22,8 @@ Below is a screenshot of our district summary with the clean student data:
     * Average Math Score - Thomas High School decreased by 0.06 from the original school summary.
     * Average Reading Score - Thomas High School decreased by 0.05 from the original school summary.
     * % Passing Math - Thomas High School decreased by 0.08% from the original school summary.
-    * % Passing Reading - Thomas High School by 0.29% from the original school summary.
-    * % Overall Passing - Thomas High School by 0.32% from the original school summary.    
+    * % Passing Reading - Thomas High School decreased by 0.29% from the original school summary.
+    * % Overall Passing - Thomas High School decreased by 0.32% from the original school summary.    
 
 Below is a screenshot of our original school summary:
 ![Screen Shot 2021-11-08 at 9 21 22 PM](https://user-images.githubusercontent.com/91925639/140850014-6f9c1050-4375-469e-bb8e-b5f8af82b214.png)
@@ -62,3 +62,10 @@ Below is a screenshot of our school type summary with the clean student data:
 ![Screen Shot 2021-11-09 at 7 19 16 AM](https://user-images.githubusercontent.com/91925639/140923101-4074bf41-e3eb-4300-ac3e-6dd5c1c7f817.png)
 
 ## Summary:
+
+In conclusion, updating the math and reading scores for the ninth graders of Thomas High School had a minor effect on the overall school's performance and ranking compared to the other schools in our analysis. Math and reading scores in Thomas High School decreased after replacing their scores with NaN's. Below is a list of the 4 notable changes that occurred in our school district analysis. 
+
+   * The total schools overall % passing rate decreased by 0.3%
+   * Thomas High School % passing math rate decreased by 0.08%
+   * Thomas High School % passing reading rate decreased by 0.29%
+   * Thomas High School overall % passing rate decreased by 0.32%
