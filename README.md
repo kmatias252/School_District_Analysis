@@ -56,6 +56,6 @@ Below is a screenshot of our school size summary with the clean student data:
 5) The average reading and math scores and % passing by school type was uneffected by the changes to the nineth grade student data for Thomas High School.
 
 Below is a screenshot of our original school type summary:
-
+![Screen Shot 2021-11-09 at 7 17 11 AM](https://user-images.githubusercontent.com/91925639/140922921-16e1255e-39e8-4138-a1ed-ca79394fe7d8.png)
 
 Below is a screenshot of our school type summary with the clean student data:
